@@ -1,9 +1,9 @@
 {
-	"name": "ibrows/newsletter-bundle",
+	"name": "kasifi/newsletter-bundle",
 	"type": "symfony-bundle",
 	"description": "Symfony NewsletterBundle",
 	"keywords": ["Newsletter", "iBROWS"],
-	"homepage": "https://github.com/ibrows/IbrowsNewsletterBundle",
+	"homepage": "https://github.com/kasifi/IbrowsNewsletterBundle",
 	"license": "MIT",
 	"authors": [
 		{
@@ -15,7 +15,6 @@
 			"email": "mike.meier@ibrows.ch"
 		}
 	],
-	"minimum-stability": "dev",
 	"require": {
 		"symfony/symfony": ">=2.1",
         "stfalcon/tinymce-bundle": "*"
